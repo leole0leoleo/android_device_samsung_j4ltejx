@@ -13,7 +13,7 @@ This repository is to build LineageOS for the J4 (SM-J400M/F)
 | GPU                     | Mali-T720 MP2                     |
 | Memory                  | 2GB	                              |
 | Shipped Android Version | 8.1.0                             |
-| Storage                 | 16 GB                             |
+| Storage                 | 16/32GB                             |
 | MicroSD                 | Up to 256 GB                      |
 | Battery                 | 3000 mAh (removable)              |
 | Dimensions              | 151.7 x 77.2 x 8.1 mm             |
